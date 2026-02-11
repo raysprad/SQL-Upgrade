@@ -1,0 +1,5 @@
+use DBNAME
+Grant create table to userid ;
+go
+
+usermaping : db_ddladmin
